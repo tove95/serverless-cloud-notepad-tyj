@@ -3,8 +3,8 @@ main = "src/index.js"
 compatibility_date = "2022-05-13"
 
 kv_namespaces = [
-  { binding = "NOTES", id = "961e42514a0b48a5b5cd3f8db2139e83", preview_id = "01083e57f68046079a62015c3ea4a145" },
-  { binding = "SHARE", id = "16febf35bb0d411dbd1d3fd33f0189eb", preview_id = "f89caa54860940709800dc6ed3ff920a" }
+  { binding = "NOTES", id = "961e42514a0b48a5b5cd3f8db2139e83", preview_id = "24e09441475a48738a2e566c74ef84d9" },
+  { binding = "SHARE", id = "16febf35bb0d411dbd1d3fd33f0189eb", preview_id = "9b8e908c950643d98d7452e65ee94b8a" }
 ]
 
 [env.production]
